@@ -1,0 +1,42 @@
+E:\New\UEEditText\Plugins\ExtendEditor\Intermediate\Build\Win64\UE4Editor\Development\ExtendEditor\Definitions.ExtendEditor.h
+E:/New/UEEditText/Plugins/ExtendEditor/Source/ExtendEditor/Private/ExtendEditor.cpp
+E:\New\UEEditText\Plugins\ExtendEditor\Source\ExtendEditor\Public\ExtendEditor.h
+E:\New\UEEditText\Plugins\ExtendEditor\Source\ExtendEditor\Public\ExtendEditorStyle.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:\New\UEEditText\Plugins\ExtendEditor\Source\ExtendEditor\Public\ExtendEditorCommands.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenus.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\IToolMenusModule.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenu.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuOwner.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuOwner.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuDelegates.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuMisc.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuMisc.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuDelegates.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuSection.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntry.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntry.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuSection.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/ToolMenuBase.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/BlacklistNames.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ToolMenuBase.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenu.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntryScript.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntryScript.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenus.generated.h
+E:/New/UEEditText/Plugins/ExtendEditor/Source/ExtendEditor/Private/ExtendEditorCommands.cpp
+E:/New/UEEditText/Plugins/ExtendEditor/Source/ExtendEditor/Private/ExtendEditorStyle.cpp
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

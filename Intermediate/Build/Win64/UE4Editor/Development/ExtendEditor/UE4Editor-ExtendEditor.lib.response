@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ExtendEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\New\UEEditText\Intermediate\Build\Win64\UEEditTextEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\New\UEEditText\Plugins\ExtendEditor\Intermediate\Build\Win64\UE4Editor\Development\ExtendEditor\Module.ExtendEditor.cpp.obj"
+"E:\New\UEEditText\Plugins\ExtendEditor\Intermediate\Build\Win64\UE4Editor\Development\ExtendEditor\Default.rc2.res"
+/OUT:"E:\New\UEEditText\Plugins\ExtendEditor\Intermediate\Build\Win64\UE4Editor\Development\ExtendEditor\UE4Editor-ExtendEditor.lib"
