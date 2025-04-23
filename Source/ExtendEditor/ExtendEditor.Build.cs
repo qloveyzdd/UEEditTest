@@ -42,6 +42,8 @@ public class ExtendEditor : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"UMG",
+				"ContentBrowser",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

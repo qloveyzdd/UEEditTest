@@ -1,6 +1,23 @@
 E:\New\UEEditText\Plugins\ExtendEditor\Intermediate\Build\Win64\UE4Editor\Development\ExtendEditor\Definitions.ExtendEditor.h
 E:/New/UEEditText/Plugins/ExtendEditor/Source/ExtendEditor/Private/ExtendEditor.cpp
 E:\New\UEEditText\Plugins\ExtendEditor\Source\ExtendEditor\Public\ExtendEditor.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserModule.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer/Merge/Public/Merge.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataLegacyBridge.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItemData.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataMenuContexts.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItem.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserItem.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+D:\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataMenuContexts.generated.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataLegacyBridge.generated.h
 E:\New\UEEditText\Plugins\ExtendEditor\Source\ExtendEditor\Public\ExtendEditorStyle.h
 D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
 D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
@@ -8,6 +25,13 @@ D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBru
 D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
 D:\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
 E:\New\UEEditText\Plugins\ExtendEditor\Source\ExtendEditor\Public\ExtendEditorCommands.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LevelEditorActions.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\TexAligner/TexAligner.h
+D:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TexAligner.generated.h
+D:\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LightmapResRatioAdjust.h
 D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenus.h
 D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\IToolMenusModule.h
 D:\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenu.h
